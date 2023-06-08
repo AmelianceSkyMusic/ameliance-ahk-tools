@@ -1,0 +1,14 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+#temp folders
+*._legacy*
+_legacy*
+
+*._backup*
+_backup*
+
+*._temp*
+_temp*
