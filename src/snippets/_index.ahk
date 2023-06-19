@@ -1,0 +1,9 @@
+#include autocorrection.ahk
+#include css.ahk
+#include date.ahk
+#include git.ahk
+#include html.ahk
+#include javascript.ahk
+#include others.ahk
+#include daw.ahk
+#include emoji.ahk

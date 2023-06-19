@@ -1,0 +1,13 @@
+{
+   "name": "Programs",
+   "menuItems": [
+      {
+         "label": "excel",
+         "icon": "excel.png"
+      },
+      {
+         "label": "paint",
+         "icon": "paint.png"
+      }
+   ]
+}

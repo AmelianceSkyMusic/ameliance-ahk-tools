@@ -1,0 +1,80 @@
+﻿{
+	"name": "Programs",
+	"menu": [
+		{ "title": "Figma", 					"icon": "link", 			"action": { "type": "link" }, 		"key": "f" },
+		{ "hidden": true, "title": "Illustrator 2020", 	"icon": "link", 			"action": { "type": "link" }, 		"key": "i" },
+		{ "hidden": true, "title": "Photoshop 2020", 		"icon": "link" },
+		{ "hidden": true, "title": "CorelDRAW", 			"icon": "link" },
+		{ "hidden": true, "title": "Affinity Designer", 	"icon": "link" },
+		{ "hidden": true, "title": "Affinity Photo", 		"icon": "link" },
+		{ "hidden": true, "title": "Affinity Publisher", "icon": "link" },
+		{ "hidden": true, "title": "After Effects 2020", "icon": "link" },
+		{ "hidden": true, "title": "Blender", 				"icon": "link" },
+		{ "divider": true },
+
+		{ "title": "Studio One", 			"icon": "link",			"action": { "type": "link" },			"key": "s" },
+		{ "title": "Reaper", 				"icon": "link",			"action": { "type": "link" },			"key": "r" },
+		{ "divider": true },
+
+		{ "title": "Google Chrome",		"icon": "link",			"action": { "type": "link" } },
+		{ "title": "Opera",					"icon": "link",			"action": { "type": "link" } },
+		{ "divider": true },
+
+		{ "title": "Telegram",				"icon": "link", 			"action": { "type": "link" }, 		"key": "t" },
+		{ "title": "Viber",					"icon": "link", 			"action": { "type": "link" } },
+		{ "title": "AIMP",					"icon": "link", 			"action": { "type": "link" }, 		"key": "a" },
+		{ "title": "Code",					"icon": "link", 			"action": { "type": "link", "exe": "code" }, 		"key": "v" },
+		{ "title": "Obsidian",				"icon": "link", 			"action": { "type": "link" } },
+		{ "divider": true },
+
+		{ "title": "Total Commander",		"icon": "link",			"action": { "type": "link" } },
+		{ "divider": true },
+
+		{ "title": "Calculator",			"icon": "Calc.png", 		"action": { "type": "link" }, 		"key": "c" },
+		{ "title": "Notepad",				"icon": "Notepad.png",	"action": { "type": "link" }, 		"key": "n" },
+		{ "divider": true },
+
+		{
+			"title": "Others",				"icon": "Others.png", 									"key": "o",
+			"subMenu": [
+				{ "title": "Everything", 	"icon": "link", 			"action": { "type": "link" }, 		"key": "e" },
+				{ "title": "Qtranslate", 	"icon": "link", 			"action": { "type": "link" }, 		"key": "q" },
+				{ "title": "Clipdiary", 	"icon": "link", 			"action": { "type": "link" }, 		"key": "c" },
+				{ "title": "ShareX", 		"icon": "link", 			"action": { "type": "link" }, 		"key": "s" },
+				{ "title": "Gink", 			"icon": "link", 			"action": { "type": "link" }, 		"key": "g" },
+				{ "title": "Epic Pen", 		"icon": "link", 			"action": { "type": "link" }, 		"key": "p" },
+				{ "title": "OBS Studio", 	"icon": "link", 			"action": { "type": "link" }, 		"key": "o" },
+				{ "divider": true },
+
+				{ "title": "Carnac", 			 							"action": { "type": "link" }, 		"key": "o" }
+			]
+		},
+
+		{
+			"title": "AHK",					"icon": "AHK.png", 							"key": "h",
+			"subMenu": [
+				{ "title": "Add Hotstrings",			"icon": "link", 				"action": { "type": "link" }, 	"key": "e" },
+				{ "title": "Something",								 						"action": { "type": "link" }, 	"key": "q" },
+				{ "title": "CreateDir",					"icon": "CreateDir.png ", 	"action": { "type": "link" }, 	"key": "c" },
+				{ "title": "OneLetterTyping",			"icon": "link", 				"action": { "type": "link" }, 	"key": "s" },
+				{ "title": "Studio One Hand Tool",	"icon": "link", 				"action": { "type": "link" }, 	"key": "g" },
+				{ "divider": true },
+
+				{ "title": "AHK Help", 					"icon": "HelpCHM.png", 		"action": { "type": "link" } },
+				{ "title": "AHK Help Online", 		"icon": "HelpCHM.png", 		"action": { "type": "open", "run": "https://www.autohotkey.com/docs/v2/" } },
+				{ "title": "AHK Help v2a122_old ",	"icon": "HelpCHM.png", 		"action": { "type": "link" } },
+				{ "divider": true },
+
+				{ "title": "RB TOOLS", 					"icon": "link", 				"action": { "type": "open", "run": "D:\\Others\\Programs\\AHK\\RB TOOLS\\" } },
+				{ "divider": true },
+
+				{ "title": "Config", 					"icon": "link", 				"action": { "type": "link" } },
+				{ "divider": true },
+
+				{ "title": "Video changer CMD", 		"icon": "link", 				"action": { "type": "link" }, 	"key": "1" }
+			]
+		}
+
+
+	]
+}
