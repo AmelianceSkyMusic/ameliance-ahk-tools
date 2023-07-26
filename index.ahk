@@ -26,6 +26,7 @@ A_MaxHotkeysPerInterval := 200
 ; *i — ingnor syntax errors if it is not critical for main script
 ; #Include lib\Native\Native.ahk
 #Include lib\_index.ahk
+#Include src\helpers\_index.ahk
 #Include src\constants\_index.ahk
 #Include src\utils\_index.ahk
 #Include src\hotkeys\_index.ahk
